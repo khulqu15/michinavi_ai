@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Retak Buaya</folder>
+	<filename>image 26.png</filename>
+	<path>/home/khuluq/Projects/michiai/datasets/Retak Buaya/image 26.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>393</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Retak Buaya</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>56</ymin>
+			<xmax>307</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

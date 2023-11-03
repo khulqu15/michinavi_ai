@@ -1,0 +1,16 @@
+item {
+  id: 1
+  name: 'Berlubang'
+}
+item {
+  id: 2
+  name: 'Retak Buaya'
+}
+item {
+  id: 3
+  name: 'Retak Melintang'
+}
+item {
+  id: 4
+  name: 'Retak Memanjang'
+}

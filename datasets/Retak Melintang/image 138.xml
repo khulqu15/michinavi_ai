@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Retak Melintang</folder>
+	<filename>image 138.png</filename>
+	<path>/home/khuluq/Projects/michiai/datasets/Retak Melintang/image 138.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Retak Melintang</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>203</ymin>
+			<xmax>620</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

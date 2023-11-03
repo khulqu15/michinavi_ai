@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Retak Memanjang</folder>
+	<filename>image 140.png</filename>
+	<path>/home/khuluq/Projects/michiai/datasets/Retak Memanjang/image 140.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>633</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Retak Memanjang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>4</ymin>
+			<xmax>375</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Retak Memanjang</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>198</ymin>
+			<xmax>333</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>

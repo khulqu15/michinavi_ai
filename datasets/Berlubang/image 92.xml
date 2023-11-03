@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Berlubang</folder>
+	<filename>image 92.png</filename>
+	<path>/home/khuluq/Projects/michiai/datasets/Berlubang/image 92.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>655</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Berlubang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>51</ymin>
+			<xmax>534</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Berlubang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>164</ymin>
+			<xmax>318</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>
